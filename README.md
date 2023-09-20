@@ -51,4 +51,4 @@ Follow the on-screen instructions to interact with the coffee vending machine, i
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](License.txt) file for details.
