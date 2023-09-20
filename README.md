@@ -41,7 +41,7 @@ This Python program simulates a coffee vending machine, allowing users to order 
 
      cd coffee-vending-machine
 
-### Usage
+## Usage
 
 To run the coffee vending machine program, execute the following command:
 
@@ -49,6 +49,6 @@ python main.py
 
 Follow the on-screen instructions to interact with the coffee vending machine, including selecting drinks, making payments, and viewing reports.
 
-### License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](License.txt) file for details.
