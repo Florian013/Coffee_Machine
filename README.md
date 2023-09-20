@@ -1,6 +1,6 @@
 # Coffee Vending Machine
 
-This Python program simulates a coffee vending machine, allowing users to order various coffee drinks and make payments. It is a simple console-based application that demonstrates the concepts of object-oriented programming and simulates the functioning of a coffee vending machine.
+This Python program simulates a coffee vending machine, allowing users to order various coffee drinks and make payments. It is a console-based application that demonstrates the concepts of object-oriented programming and simulates the functioning of a coffee vending machine.
 
 ## Table of Contents
 
